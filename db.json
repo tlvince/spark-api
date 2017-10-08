@@ -1,0 +1,16 @@
+{
+  "ideas": [
+    {
+      "id": "0bdfe553-eb8b-40bb-9f44-1a2cae358c5e",
+      "created_date": "2017-10-08T16:02:20.630Z",
+      "title": "Stoicism as a Service",
+      "body": "Return stoic principles ala lorem ipsum generators"
+    },
+    {
+      "id": "cebd72b9-1fef-4647-b33d-fe543bf9533c",
+      "created_date": "2017-10-08T16:02:25.397Z",
+      "title": "Tweet Positively",
+      "body": "Watch public Twitter stream, rephrase negative tweets positively via sentiment analysis"
+    }
+  ]
+}
